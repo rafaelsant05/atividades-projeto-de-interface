@@ -1,0 +1,185 @@
+/* Fontes */
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=National+Park:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+#corpo-00 {
+    margin: 0;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#main-content {
+    background-image: url('imagens/summer-beach.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+#header,
+#header-1,
+#header-2,
+#header-3,
+#header-4 {
+    background-color: #383199;
+    padding: 15px;
+}
+
+#nav,
+#nav-1,
+#nav-2,
+#nav-3,
+#nav-4 {
+    text-align: center;
+}
+
+#menu,
+#menu-1,
+#menu-2,
+#menu-3,
+#menu-4 {
+    text-decoration: none;
+}
+
+#menu li,
+#linhas-1,
+#linha-2,
+#linha-3,
+#menu-4 li {
+    display: inline;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+#menu li a,
+#linhas-1 a,
+#linha-2 a,
+#linha-3 a,
+#menu-4 li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+#h1,
+#h1-1,
+#h1-4,
+#h2-2,
+#h2-3 {
+    text-align: center;
+}
+
+/* Página 1 */
+#corpo-1 {
+    background-color: #dff4ff;
+    margin: 0;
+    font-family: "Special Gothic Expanded One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#img-praia-1 {
+    width: 300px;
+    height: auto;
+}
+
+#topo10-1 {
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+    background-color: #81c6f8;
+    color: #504e4e;
+    padding: 10px 20px;
+    width: fit-content;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+
+/* Página 2 */
+#corpo-2 {
+    background-color: #d4dfff;
+    margin: 0;
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#img-praia-2 {
+    width: 300px;
+    height: auto;
+}
+
+#topo10-2 {
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+    background-color: #81c6f8;
+    color: #504e4e;
+    padding: 10px 20px;
+    width: fit-content;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+
+#container2-2 {
+    padding: 20px;
+}
+
+/* Página 3 */
+#corpo-3 {
+    background-color: #cbeefa;
+    margin: 0;
+    font-family: "National Park", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#img-praia-3 {
+    width: 300px;
+    height: auto;
+}
+
+#topo10-3 {
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+    background-color: #81c6f8;
+    color: #504e4e;
+    padding: 10px 20px;
+    width: fit-content;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+
+#container2-3 {
+    padding: 20px;
+}
+
+/* Página 4 */
+#corpo-4 {
+    background-color: #cbeefa;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#main-4 {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
